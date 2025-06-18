@@ -1,9 +1,17 @@
-- 👋 Hi, I’m @Zaeem-T
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+# 👋 Hello, I’m [Zaeem Bin Tariq]
 
-<!---
-Zaeem-T/Zaeem-T is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your change.
---->
+🎓 I’m a cybersecurity student and beginner Python toolmaker.  
+🐧 I use Linux and Wireshark for learning network security.  
+🛠️ I’m learning Python to build tools like scanners and sniffers.  
+🎯 My goal is to become a professional ethical hacker.  
+
+## 🚀 Skills I'm Learning
+- Python (socket, requests, scapy, etc.)
+- Linux commands
+- Networking tools (Wireshark, Nmap)
+- Bash basics
+
+## 📫 Contact
+You can reach me here:
+[zaeembintariq04@gmail.com]
+
